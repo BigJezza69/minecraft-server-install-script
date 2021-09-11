@@ -18,5 +18,6 @@ and your server should be done
 
 to run the server type into the terminal ./server.sh
 
+---------------------------------------------------------------------
 
 this is the first version, many features are still missing
