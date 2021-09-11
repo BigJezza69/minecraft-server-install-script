@@ -1,8 +1,12 @@
 # minecraft-server-install-script
 to run the script on linux (linux only for the moment)
 run in the terminal:
+
 chmod +x inital-setup.sh
+
 ./inital-setup.sh
+
+--------------------
 
 Download the source code as a zip
 
